@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+button{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    border-width: 15px;
+    border-radius: 20%;
+}
+.container{
+    
+    text-align: center;
+    /* margin: auto; */
+    
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color:rgb(183, 37, 202);
+}
+.game-over{
+    background-color: brown;
+}
+
+/* .pressed{
+    background-color: rgb(173, 169, 166);
+    box-shadow: none;
+} */
